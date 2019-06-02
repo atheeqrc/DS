@@ -1,0 +1,61 @@
+.center {
+    /* Magic here */
+    display: flex;
+    justify-content: center;
+    font-size: 125%;
+    font-style: bold;
+
+    padding: 40px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+
+}
+
+
+.header {
+    padding: 40px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+.topDiv {
+    padding: 40px;
+    margin-top: 0px;
+    margin-bottom: fill;
+    text-align: center;
+    color: whitesmoke;
+    background: #1abc9c;
+    font-size: 60px;
+
+}
+
+.backdiv {
+    background-color: floralwhite;
+}
+
+.tableAlign {
+    text-align: center;
+}
+
+.boldHead {
+    font-style: bold;
+    font-size: large;
+}
+
+.centerPad{
+    /* Magic here */
+    display: flex;
+    justify-content: center;
+    font-size: 125%;
+    font-style: bold;
+
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
